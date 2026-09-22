@@ -1,0 +1,6 @@
+{
+  "name": "@handeploy/project-service",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Handeploy project management service"
+}

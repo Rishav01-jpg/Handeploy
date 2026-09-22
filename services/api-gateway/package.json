@@ -1,0 +1,6 @@
+{
+  "name": "@handeploy/api-gateway",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Handeploy API gateway and control-plane entry point"
+}

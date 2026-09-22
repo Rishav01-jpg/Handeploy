@@ -1,0 +1,6 @@
+{
+  "name": "@handeploy/organization-service",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Handeploy organization and multi-tenant management service"
+}

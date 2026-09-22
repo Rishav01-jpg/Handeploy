@@ -1,0 +1,6 @@
+{
+  "name": "@handeploy/config",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Shared Handeploy configuration management package"
+}

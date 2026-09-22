@@ -1,0 +1,11 @@
+{
+  "name": "handeploy",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Secure, scalable application deployment platform",
+  "workspaces": [
+    "frontend",
+    "services/*",
+    "packages/*"
+  ]
+}
